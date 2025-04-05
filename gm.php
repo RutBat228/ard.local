@@ -13,7 +13,8 @@ if ($usr['rang'] != "Мастер участка" && $usr['name'] != "RutBat") {
     exit;
 }
 ?>
-
+ 
+ 
 <head>
     <title>RUTBAT ПАНЕЛЬ</title>
 </head>
