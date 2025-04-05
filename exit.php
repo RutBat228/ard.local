@@ -11,5 +11,4 @@ if (window.AndroidInterface) {
 }
 </script>";
 echo '<meta http-equiv="refresh" content="0;URL=/auth.php">';
-
 exit();
